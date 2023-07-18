@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# DEFI (Decentralized Finance)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+We build a simple Defi for ethereum blockchain. Follow the below instructions to run this Defi on your machine.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## First Step:-
+### Environment Step:- 
+1. [Nodejs]("https://nodejs.org/en") 
