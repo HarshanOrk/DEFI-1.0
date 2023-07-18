@@ -3,7 +3,13 @@
 We build a simple Defi for ethereum blockchain. Follow the below instructions to run this Defi on your machine.
 
 ## First Step:-
-Environment Step:- 
+Environment Setup:- 
 1. [Nodejs](https://nodejs.org/en)
 2. [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#installation)
 3. [Ganache](https://trufflesuite.com/ganache/)
+
+## Second Step:- 
+Create a new folder and clone this repo using 
+```
+https://github.com/HarshanOrk/DEFI-1.0.git
+```
