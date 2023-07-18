@@ -13,3 +13,11 @@ Create a new folder and clone this repo using
 ```
 https://github.com/HarshanOrk/DEFI-1.0.git
 ```
+Once finished cloning. install node modules 
+```
+npm install 
+```
+After the installation of node modules. Connect  to ganache from the hardhat by adding config to the hardhat.config.js
+```
+
+```
