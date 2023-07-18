@@ -4,4 +4,4 @@ We build a simple Defi for ethereum blockchain. Follow the below instructions to
 
 ## First Step:-
 Environment Step:- 
-1. [Nodejs]("https://nodejs.org/en") 
+1. [Nodejs](https://nodejs.org/en)
