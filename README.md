@@ -5,3 +5,5 @@ We build a simple Defi for ethereum blockchain. Follow the below instructions to
 ## First Step:-
 Environment Step:- 
 1. [Nodejs](https://nodejs.org/en)
+2. [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#installation)
+3. [Ganache](https://trufflesuite.com/ganache/)
