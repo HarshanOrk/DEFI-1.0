@@ -24,7 +24,7 @@ module.exports = {
   networks:{
     ganache:{
       url:"", //Provider(Ganache) URL
-      accounts:[""] // PrivateKey
+      accounts:[""] // Ganache address(Privatekey)
     }
   }
 };
