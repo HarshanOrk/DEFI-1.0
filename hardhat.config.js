@@ -6,7 +6,7 @@ module.exports = {
   networks:{
     ganache:{
       url:"", //Provider(Ganache) URL
-      accounts:["",""] // Privatekey-1, Privatekey-2
+      accounts:[""] // Ganache address(Privatekey)
     }
   }
 };
