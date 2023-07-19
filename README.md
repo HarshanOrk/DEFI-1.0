@@ -19,5 +19,13 @@ npm install
 ```
 After the installation of node modules. Connect  to ganache from the hardhat by adding config to the hardhat.config.js
 ```
-
+module.exports = {
+  solidity: "0.8.17",
+  networks:{
+    ganache:{
+      url:"", //Provider(Ganache) URL
+      accounts:[""] // PrivateKey
+    }
+  }
+};
 ```
