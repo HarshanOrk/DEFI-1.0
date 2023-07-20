@@ -58,5 +58,5 @@ After investing some DAI using account-2. Finally we got investor to our Defi no
 npx hardhat run scripts/issue_token.js --network ganache
 ```
 
-### Contact:
+### Contact:-
 If you face any error or issue feel free to [contact](https://telegram.me/Harshan_Ork) me
