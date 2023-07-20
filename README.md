@@ -7,6 +7,7 @@ Environment Setup:-
 1. [Nodejs](https://nodejs.org/en)
 2. [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#installation)
 3. [Ganache](https://trufflesuite.com/ganache/)
+4. [Reactjs](https://react.dev/learn/start-a-new-react-project)
 
 ## Second Step:- 
 Create a new folder and clone this repo using 
