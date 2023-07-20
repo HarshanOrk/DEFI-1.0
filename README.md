@@ -24,7 +24,7 @@ module.exports = {
   solidity: "0.8.17",
   networks:{
     ganache:{
-      url:"", //Provider(Ganache) URL
+      url:"", //Provider(Ganache) URL, eg:- http://127.0.0.1:7545
       accounts:["privatekey-1", "privatekey-2"] // Replace the privatekey-1 and privatekey-2 with Ganache address(Privatekey's)
     }
   }
